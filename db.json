@@ -1,9 +1,33 @@
 {
   "producto":[
     {
-        "id":1,
-        "nombre":"producto1",
-        "precio":100
+        "nombre":"prod1",
+        "precio":100,
+        "cantidad":15
+    },
+    {
+        "nombre":"prod2",
+        "precio":150,
+        "cantidad":20
+    },
+    {
+        "nombre":"prod3",
+        "precio":200,
+        "cantidad":25
+    },
+    {
+        "nombre":"prod4",
+        "precio":250,
+        "cantidad":25
+    },
+    {
+        "nombre":"prod5",
+        "precio":50,
+        "cantidad":30
+    },
+    {
+        "nombre":"prod6",
+        "precio":300,
+        "cantidad":10
     }
-]
-}
+]}
