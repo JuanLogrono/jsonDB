@@ -1,67 +1,227 @@
 {
   "producto":[
-    {
+    {   
+        "id": "p1",
         "nombre":"prod1",
         "precio":100,
         "cantidad":15
     },
     {
+        "id": "p2",
         "nombre":"prod2",
         "precio":150,
         "cantidad":20
     },
     {
+        "id": "p3",
         "nombre":"prod3",
         "precio":200,
         "cantidad":25
     },
     {
+        "id": "p4",
         "nombre":"prod4",
         "precio":250,
         "cantidad":25
     },
     {
+        "id": "p5",
         "nombre":"prod5",
         "precio":50,
         "cantidad":30
     },
     {
+        "id": "p6",
         "nombre":"prod6",
+        "precio":300,
+        "cantidad":10
+    },
+    {   
+        "id": "p7",
+        "nombre":"prod7",
+        "precio":100,
+        "cantidad":15
+    },
+    {
+        "id": "p8",
+        "nombre":"prod8",
+        "precio":150,
+        "cantidad":20
+    },
+    {
+        "id": "p9",
+        "nombre":"prod9",
+        "precio":200,
+        "cantidad":25
+    },
+    {
+        "id": "p10",
+        "nombre":"prod10",
+        "precio":250,
+        "cantidad":25
+    },
+    {
+        "id": "p11",
+        "nombre":"prod11",
+        "precio":50,
+        "cantidad":30
+    },
+    {
+        "id": "p12",
+        "nombre":"prod12",
         "precio":300,
         "cantidad":10
     }
 ],
     "servicio":[
     {
+        "id": "s1",
         "nombre":"serv1",
         "precio":100,
         "cantidad":15
     },
     {
+        "id": "s2",
         "nombre":"serv2",
         "precio":150,
         "cantidad":20
     },
     {
+        "id": "s3",
         "nombre":"serv3",
         "precio":200,
         "cantidad":25
     },
     {
+        "id": "s4",
         "nombre":"serv4",
         "precio":250,
         "cantidad":25
     },
     {
+        "id": "s5",
         "nombre":"serv5",
         "precio":50,
         "cantidad":30
     },
     {
+        "id": "s6",
         "nombre":"serv6",
+        "precio":300,
+        "cantidad":10
+    },
+    {
+        "id": "s7",
+        "nombre":"serv7",
+        "precio":100,
+        "cantidad":15
+    },
+    {
+        "id": "s8",
+        "nombre":"serv8",
+        "precio":150,
+        "cantidad":20
+    },
+    {
+        "id": "s9",
+        "nombre":"serv9",
+        "precio":200,
+        "cantidad":25
+    },
+    {
+        "id": "s10",
+        "nombre":"serv10",
+        "precio":250,
+        "cantidad":25
+    },
+    {
+        "id": "s11",
+        "nombre":"serv11",
+        "precio":50,
+        "cantidad":30
+    },
+    {
+        "id": "s12",
+        "nombre":"serv12",
         "precio":300,
         "cantidad":10
     }
 
-    ]
+    ],
+
+    "bien":[
+        {
+            "id": "b1",
+            "nombre":"bien1",
+            "precio":100,
+            "cantidad":15
+        },
+        {
+            "id": "b2",
+            "nombre":"bien2",
+            "precio":150,
+            "cantidad":20
+        },
+        {
+            "id": "b3",
+            "nombre":"bien3",
+            "precio":200,
+            "cantidad":25
+        },
+        {
+            "id": "b4",
+            "nombre":"bien4",
+            "precio":250,
+            "cantidad":25
+        },
+        {
+            "id": "b5",
+            "nombre":"bien5",
+            "precio":50,
+            "cantidad":30
+        },
+        {
+            "id": "b6",
+            "nombre":"bien6",
+            "precio":300,
+            "cantidad":10
+        },
+        {
+            "id": "b7",
+            "nombre":"bien7",
+            "precio":100,
+            "cantidad":15
+        },
+        {
+            "id": "b8",
+            "nombre":"bien8",
+            "precio":150,
+            "cantidad":20
+        },
+        {
+            "id": "b9",
+            "nombre":"bien9",
+            "precio":200,
+            "cantidad":25
+        },
+        {
+            "id": "b10",
+            "nombre":"bien10",
+            "precio":250,
+            "cantidad":25
+        },
+        {
+            "id": "b11",
+            "nombre":"bien11",
+            "precio":50,
+            "cantidad":30
+        },
+        {
+            "id": "b12",
+            "nombre":"bien12",
+            "precio":300,
+            "cantidad":10
+        }
+    
+        ]
 }
