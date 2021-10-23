@@ -4,73 +4,85 @@
         "id": "p1",
         "nombre":"prod1",
         "precio":100,
-        "cantidad":15
+        "cantidad":15,
+        "descripción": "blanco, azul, gris claro"
     },
     {
         "id": "p2",
         "nombre":"prod2",
         "precio":150,
-        "cantidad":20
+        "cantidad":20,
+        "descripcion": "rojo, gris, verde claro"
     },
     {
         "id": "p3",
         "nombre":"prod3",
         "precio":200,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro, blanco , rosa"
     },
     {
         "id": "p4",
         "nombre":"prod4",
         "precio":250,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro , gris ,verde"
     },
     {
         "id": "p5",
         "nombre":"prod5",
         "precio":50,
-        "cantidad":30
+        "cantidad":30,
+        "descripcion":"azul , blanco, rosa"
     },
     {
         "id": "p6",
         "nombre":"prod6",
         "precio":300,
-        "cantidad":10
+        "cantidad":10,
+        "descripcion":"rojo, amarillo , gris"
     },
     {   
         "id": "p7",
         "nombre":"prod7",
         "precio":100,
-        "cantidad":15
+        "cantidad":15,
+        "descripción": "blanco, azul, gris claro"
     },
     {
         "id": "p8",
         "nombre":"prod8",
         "precio":150,
-        "cantidad":20
+        "cantidad":20,
+        "descripcion": "rojo, gris, verde claro"
     },
     {
         "id": "p9",
         "nombre":"prod9",
         "precio":200,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro, blanco , rosa"
     },
     {
         "id": "p10",
         "nombre":"prod10",
         "precio":250,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro , gris ,verde"
     },
     {
         "id": "p11",
         "nombre":"prod11",
         "precio":50,
-        "cantidad":30
+        "cantidad":30,
+        "descripcion":"azul , blanco, rosa"
     },
     {
         "id": "p12",
         "nombre":"prod12",
         "precio":300,
-        "cantidad":10
+        "cantidad":10,
+        "descripcion":"rojo, amarillo , gris"
     }
 ],
     "servicio":[
@@ -78,73 +90,85 @@
         "id": "s1",
         "nombre":"serv1",
         "precio":100,
-        "cantidad":15
+        "cantidad":15,
+        "descripción": "blanco, azul, gris claro"
     },
     {
         "id": "s2",
         "nombre":"serv2",
         "precio":150,
-        "cantidad":20
+        "cantidad":20,
+        "descripcion": "rojo, gris, verde claro"
     },
     {
         "id": "s3",
         "nombre":"serv3",
         "precio":200,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro, blanco , rosa"
     },
     {
         "id": "s4",
         "nombre":"serv4",
         "precio":250,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro , gris ,verde"
     },
     {
         "id": "s5",
         "nombre":"serv5",
         "precio":50,
-        "cantidad":30
+        "cantidad":30,
+        "descripcion":"azul , blanco, rosa"
     },
     {
         "id": "s6",
         "nombre":"serv6",
         "precio":300,
-        "cantidad":10
+        "cantidad":10,
+        "descripcion":"rojo, amarillo , gris"
     },
     {
         "id": "s7",
         "nombre":"serv7",
         "precio":100,
-        "cantidad":15
+        "cantidad":15,
+        "descripción": "blanco, azul, gris claro"
     },
     {
         "id": "s8",
         "nombre":"serv8",
         "precio":150,
-        "cantidad":20
+        "cantidad":20,
+        "descripcion": "rojo, gris, verde claro"
     },
     {
         "id": "s9",
         "nombre":"serv9",
         "precio":200,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro, blanco , rosa"
     },
     {
         "id": "s10",
         "nombre":"serv10",
         "precio":250,
-        "cantidad":25
+        "cantidad":25,
+        "descripcion":"negro , gris ,verde"
     },
     {
         "id": "s11",
         "nombre":"serv11",
         "precio":50,
-        "cantidad":30
+        "cantidad":30,
+        "descripcion":"azul , blanco, rosa"
     },
     {
         "id": "s12",
         "nombre":"serv12",
         "precio":300,
-        "cantidad":10
+        "cantidad":10,
+        "descripcion":"rojo, amarillo , gris"
     }
 
     ],
@@ -154,73 +178,85 @@
             "id": "b1",
             "nombre":"bien1",
             "precio":100,
-            "cantidad":15
+            "cantidad":15,
+            "descripción": "blanco, azul, gris claro"
         },
         {
             "id": "b2",
             "nombre":"bien2",
             "precio":150,
-            "cantidad":20
+            "cantidad":20,
+            "descripcion": "rojo, gris, verde claro"
         },
         {
             "id": "b3",
             "nombre":"bien3",
             "precio":200,
-            "cantidad":25
+            "cantidad":25,
+            "descripcion":"negro, blanco , rosa"
         },
         {
             "id": "b4",
             "nombre":"bien4",
             "precio":250,
-            "cantidad":25
+            "cantidad":25,
+            "descripcion":"negro , gris ,verde"
         },
         {
             "id": "b5",
             "nombre":"bien5",
             "precio":50,
-            "cantidad":30
+            "cantidad":30,
+            "descripcion":"azul , blanco, rosa"
         },
         {
             "id": "b6",
             "nombre":"bien6",
             "precio":300,
-            "cantidad":10
+            "cantidad":10,
+            "descripcion":"rojo, amarillo , gris"
         },
         {
             "id": "b7",
             "nombre":"bien7",
             "precio":100,
-            "cantidad":15
+            "cantidad":15,
+            "descripción": "blanco, azul, gris claro"
         },
         {
             "id": "b8",
             "nombre":"bien8",
             "precio":150,
-            "cantidad":20
+            "cantidad":20,
+            "descripcion": "rojo, gris, verde claro"
         },
         {
             "id": "b9",
             "nombre":"bien9",
             "precio":200,
-            "cantidad":25
+            "cantidad":25,
+            "descripcion":"negro, blanco , rosa"
         },
         {
             "id": "b10",
             "nombre":"bien10",
             "precio":250,
-            "cantidad":25
+            "cantidad":25,
+            "descripcion":"negro , gris ,verde"
         },
         {
             "id": "b11",
             "nombre":"bien11",
             "precio":50,
-            "cantidad":30
+            "cantidad":30,
+            "descripcion":"azul , blanco, rosa"
         },
         {
             "id": "b12",
             "nombre":"bien12",
             "precio":300,
-            "cantidad":10
+            "cantidad":10,
+            "descripcion":"rojo, amarillo , gris"
         }
     
         ]
