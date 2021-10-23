@@ -30,4 +30,38 @@
         "precio":300,
         "cantidad":10
     }
-]}
+],
+    "servicio":[
+    {
+        "nombre":"serv1",
+        "precio":100,
+        "cantidad":15
+    },
+    {
+        "nombre":"serv2",
+        "precio":150,
+        "cantidad":20
+    },
+    {
+        "nombre":"serv3",
+        "precio":200,
+        "cantidad":25
+    },
+    {
+        "nombre":"serv4",
+        "precio":250,
+        "cantidad":25
+    },
+    {
+        "nombre":"serv5",
+        "precio":50,
+        "cantidad":30
+    },
+    {
+        "nombre":"serv6",
+        "precio":300,
+        "cantidad":10
+    }
+
+    ]
+}
