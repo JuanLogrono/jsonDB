@@ -5,7 +5,7 @@
         "nombre":"prod1",
         "precio":100,
         "cantidad":15,
-        "descripción": "blanco, azul, gris claro"
+        "descripcion": "blanco, azul, gris claro"
     },
     {
         "id": "p2",
@@ -47,7 +47,7 @@
         "nombre":"prod7",
         "precio":100,
         "cantidad":15,
-        "descripción": "blanco, azul, gris claro"
+        "descripcion": "blanco, azul, gris claro"
     },
     {
         "id": "p8",
@@ -91,7 +91,7 @@
         "nombre":"serv1",
         "precio":100,
         "cantidad":15,
-        "descripción": "blanco, azul, gris claro"
+        "descripcion": "blanco, azul, gris claro"
     },
     {
         "id": "s2",
@@ -133,7 +133,7 @@
         "nombre":"serv7",
         "precio":100,
         "cantidad":15,
-        "descripción": "blanco, azul, gris claro"
+        "descripcion": "blanco, azul, gris claro"
     },
     {
         "id": "s8",
@@ -179,7 +179,7 @@
             "nombre":"bien1",
             "precio":100,
             "cantidad":15,
-            "descripción": "blanco, azul, gris claro"
+            "descripcion": "blanco, azul, gris claro"
         },
         {
             "id": "b2",
@@ -221,7 +221,7 @@
             "nombre":"bien7",
             "precio":100,
             "cantidad":15,
-            "descripción": "blanco, azul, gris claro"
+            "descripcion": "blanco, azul, gris claro"
         },
         {
             "id": "b8",
