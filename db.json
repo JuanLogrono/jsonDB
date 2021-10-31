@@ -1,262 +1,334 @@
 {
-  "producto":[
+  "hombre":[
     {   
-        "id": "p1",
-        "nombre":"prod1",
-        "precio":100,
+        "id": "h1",
+        "nombre":"Buzo Negro",
+        "precio":3000,
         "cantidad":15,
-        "descripcion": "blanco, azul, gris claro"
+        "descripcion": "buzo negro con capucha",
+        "buscador": "buzo negro negra con capucha canguro hombre",
+        "orden": 1
     },
     {
-        "id": "p2",
-        "nombre":"prod2",
-        "precio":150,
+        "id": "h2",
+        "nombre":"Remera negra",
+        "precio":3100,
         "cantidad":20,
-        "descripcion": "rojo, gris, verde claro"
+        "descripcion": "remera negra manga corta",
+        "buscador":"remera negro negra manga corta hombre",
+        "orden":4
     },
     {
-        "id": "p3",
-        "nombre":"prod3",
+        "id": "h3",
+        "nombre":"jean negro",
         "precio":200,
         "cantidad":25,
-        "descripcion":"negro, blanco , rosa"
+        "descripcion":"pantalon jean negro",
+        "buscador":"pantalon jean negro negra hombre",
+        "orden":7
     },
     {
-        "id": "p4",
-        "nombre":"prod4",
-        "precio":250,
-        "cantidad":25,
-        "descripcion":"negro , gris ,verde"
+        "id": "h4",
+        "nombre":"Buzo blanco",
+        "precio":3100,
+        "cantidad":20,
+        "descripcion": "buzo blanco con capucha",
+        "buscador": "buzo blanco blanca con capucha canguro hombre",
+        "orden":10
     },
     {
-        "id": "p5",
-        "nombre":"prod5",
+        "id": "h5",
+        "nombre":"jean blanco",
         "precio":50,
         "cantidad":30,
-        "descripcion":"azul , blanco, rosa"
+        "descripcion":"pantalon de jaen blanco",
+        "buscador":"pantalon jean blanco blanca hombre",
+        "orden":13
     },
     {
-        "id": "p6",
-        "nombre":"prod6",
+        "id": "h6",
+        "nombre":"Remera blanca",
         "precio":300,
         "cantidad":10,
-        "descripcion":"rojo, amarillo , gris"
+        "descripcion":"rojo, amarillo , gris",
+        "buscador":"remera blanco blanca manga corta hombre",
+        "orden":16
     },
     {   
-        "id": "p7",
-        "nombre":"prod7",
+        "id": "h7",
+        "nombre":"Buzo azul",
         "precio":100,
         "cantidad":15,
-        "descripcion": "blanco, azul, gris claro"
+        "descripcion": "buzo azul con capucha",
+        "buscador":"buzo azul con capucha canguro hombre",
+        "orden":19
     },
     {
-        "id": "p8",
-        "nombre":"prod8",
+        "id": "h8",
+        "nombre":"Remera azul",
         "precio":150,
         "cantidad":20,
-        "descripcion": "rojo, gris, verde claro"
+        "descripcion": "Remera azul manga corta",
+        "buscador": "remera azul manga corta hombre",
+        "orden":22
     },
     {
-        "id": "p9",
-        "nombre":"prod9",
+        "id": "h9",
+        "nombre":"jean azul",
         "precio":200,
         "cantidad":25,
-        "descripcion":"negro, blanco , rosa"
+        "descripcion":"pantalon jean azul",
+        "buscador":"pantalon jean azul hombre",
+        "orden":25
     },
     {
-        "id": "p10",
-        "nombre":"prod10",
+        "id": "h10",
+        "nombre":"Buzo rojo",
         "precio":250,
         "cantidad":25,
-        "descripcion":"negro , gris ,verde"
+        "descripcion":"buzo rojo con capucha",
+        "buscador":"buzo rojo con capucha canguro hombre",
+        "orden":28
     },
     {
-        "id": "p11",
-        "nombre":"prod11",
+        "id": "h11",
+        "nombre":"Remera roja",
         "precio":50,
         "cantidad":30,
-        "descripcion":"azul , blanco, rosa"
+        "descripcion":"remera roja manga corta",
+        "buscador":"remera rojo roja manga corta hombre",
+        "orden":31
     },
     {
-        "id": "p12",
-        "nombre":"prod12",
+        "id": "h12",
+        "nombre":"Jean rojo",
         "precio":300,
         "cantidad":10,
-        "descripcion":"rojo, amarillo , gris"
+        "descripcion":"pantalon de jean rojo",
+        "buscador":"pantalon jean rojo roja hombre",
+        "orden":34
     }
 ],
-    "servicio":[
+    "mujer":[
     {
-        "id": "s1",
-        "nombre":"serv1",
+        "id": "m1",
+        "nombre":"Buzo negro",
         "precio":100,
         "cantidad":15,
-        "descripcion": "blanco, azul, gris claro"
+        "descripcion": "Buzo negro con capucha",
+        "buscador":"buzo negro negra con capucha canguro mujer",
+        "orden":2
     },
     {
-        "id": "s2",
-        "nombre":"serv2",
+        "id": "m2",
+        "nombre":"Remera negra",
         "precio":150,
         "cantidad":20,
-        "descripcion": "rojo, gris, verde claro"
+        "descripcion": "remera negra manga corta",
+        "buscador":"remera negro negra manga corta mujer",
+        "orden":5
     },
     {
-        "id": "s3",
-        "nombre":"serv3",
+        "id": "m3",
+        "nombre":"Jean negro",
         "precio":200,
         "cantidad":25,
-        "descripcion":"negro, blanco , rosa"
+        "descripcion":"pantalon de jean negro",
+        "buscador":"pantalon jean negro negra mujer",
+        "orden":8
     },
     {
-        "id": "s4",
-        "nombre":"serv4",
+        "id": "m4",
+        "nombre":"Buzo blanco",
         "precio":250,
         "cantidad":25,
-        "descripcion":"negro , gris ,verde"
+        "descripcion":"buzo blanco con capucha",
+        "buscador":"buzo blanco blanca con capucha canguro mujer",
+        "orden":11
     },
     {
-        "id": "s5",
-        "nombre":"serv5",
+        "id": "m5",
+        "nombre":"Remera blanca",
         "precio":50,
         "cantidad":30,
-        "descripcion":"azul , blanco, rosa"
+        "descripcion":"remera blanca manga corta",
+        "buscador": "remera blanco blanca manga corta mujer",
+        "orden":14
     },
     {
-        "id": "s6",
-        "nombre":"serv6",
+        "id": "m6",
+        "nombre":"Jean blanco",
         "precio":300,
         "cantidad":10,
-        "descripcion":"rojo, amarillo , gris"
+        "descripcion":"pantalon de jean blanco mujer",
+        "buscador":"pantalon jean blanco blanca mujer",
+        "orden":17 
     },
     {
-        "id": "s7",
-        "nombre":"serv7",
+        "id": "m7",
+        "nombre":"Buzo azul",
         "precio":100,
         "cantidad":15,
-        "descripcion": "blanco, azul, gris claro"
+        "descripcion": "buzo azul con capucha",
+        "buscador":"buzo azul con capucha canguro mujer",
+        "orden":20
     },
     {
-        "id": "s8",
-        "nombre":"serv8",
+        "id": "m8",
+        "nombre":"Remera azul",
         "precio":150,
         "cantidad":20,
-        "descripcion": "rojo, gris, verde claro"
+        "descripcion": "remera azul sin mangas",
+        "buscador":"remera azul sin manga mujer",
+        "orden":23
     },
     {
-        "id": "s9",
-        "nombre":"serv9",
+        "id": "m9",
+        "nombre":"Jean azul",
         "precio":200,
         "cantidad":25,
-        "descripcion":"negro, blanco , rosa"
+        "descripcion":"Pantalon de jean azul",
+        "buscador":"pantalon jean azul mujer",
+        "orden":26
     },
     {
-        "id": "s10",
-        "nombre":"serv10",
+        "id": "m10",
+        "nombre":"Buzo Rojo",
         "precio":250,
         "cantidad":25,
-        "descripcion":"negro , gris ,verde"
+        "descripcion":"buzo rojo con capucha",
+        "buscador":"buzo rojo con capucha canguro mujer",
+        "orden":29
     },
     {
-        "id": "s11",
-        "nombre":"serv11",
+        "id": "m11",
+        "nombre":"Remera roja",
         "precio":50,
         "cantidad":30,
-        "descripcion":"azul , blanco, rosa"
+        "descripcion":"remera roja manga corta",
+        "buscador":"remera rojo roja manga corta mujer",
+        "orden":32
     },
     {
-        "id": "s12",
-        "nombre":"serv12",
+        "id": "m12",
+        "nombre":"jean rojo",
         "precio":300,
         "cantidad":10,
-        "descripcion":"rojo, amarillo , gris"
+        "descripcion":"pantalon de jean rojo",
+        "buscador":"pantalon jean rojo roja mujer",
+        "orden":35
     }
 
     ],
 
-    "bien":[
+    "accesorio":[
         {
-            "id": "b1",
-            "nombre":"bien1",
+            "id": "a1",
+            "nombre":"Guantes blancos",
             "precio":100,
             "cantidad":15,
-            "descripcion": "blanco, azul, gris claro"
+            "descripcion": "guantes blancos de lana",
+            "buscador":"guantes blanco blanca lana accesorio",
+            "orden":3
         },
         {
-            "id": "b2",
-            "nombre":"bien2",
+            "id": "a2",
+            "nombre":"guantes negros",
             "precio":150,
             "cantidad":20,
-            "descripcion": "rojo, gris, verde claro"
+            "descripcion": "guantes negros de lana",
+            "buscador":"guantes negro negra lana accesorio",
+            "orden":6
         },
         {
-            "id": "b3",
-            "nombre":"bien3",
+            "id": "a3",
+            "nombre":"Guantes azules",
             "precio":200,
             "cantidad":25,
-            "descripcion":"negro, blanco , rosa"
+            "descripcion":"Guantes azules de lana",
+            "buscador":"guantes azul lana accesorio",
+            "orden":9
         },
         {
-            "id": "b4",
-            "nombre":"bien4",
+            "id": "a4",
+            "nombre":"Guantes rojos",
             "precio":250,
             "cantidad":25,
-            "descripcion":"negro , gris ,verde"
+            "descripcion":"Guantes rojos de lana",
+            "buscador":"guantes rojo roja lana accesorio",
+            "orden":12
         },
         {
-            "id": "b5",
-            "nombre":"bien5",
+            "id": "a5",
+            "nombre":"Bufanda negra",
             "precio":50,
             "cantidad":30,
-            "descripcion":"azul , blanco, rosa"
+            "descripcion":"bufanda negra de lana",
+            "buscador":"bufanda negra negro lana accesorio",
+            "orden":15
         },
         {
-            "id": "b6",
-            "nombre":"bien6",
+            "id": "a6",
+            "nombre":"Bufanda blanca",
             "precio":300,
             "cantidad":10,
-            "descripcion":"rojo, amarillo , gris"
+            "descripcion":"bufanda blanca de lana",
+            "buscador":"bufanda blanco blanca lana accesorio",
+            "orden":18
         },
         {
-            "id": "b7",
-            "nombre":"bien7",
+            "id": "a7",
+            "nombre":"Bufanda azul",
             "precio":100,
             "cantidad":15,
-            "descripcion": "blanco, azul, gris claro"
+            "descripcion": "bufanda azul de lana",
+            "buscador":"bufanda azul lana accesorio",
+            "orden":21
         },
         {
-            "id": "b8",
-            "nombre":"bien8",
+            "id": "a8",
+            "nombre":"Bufanda roja",
             "precio":150,
             "cantidad":20,
-            "descripcion": "rojo, gris, verde claro"
+            "descripcion": "bufanda roja de lana",
+            "buscador":"bufanda rojo roja lana accesorio",
+            "orden":24
         },
         {
-            "id": "b9",
-            "nombre":"bien9",
+            "id": "a9",
+            "nombre":"Gorro negro",
             "precio":200,
             "cantidad":25,
-            "descripcion":"negro, blanco , rosa"
+            "descripcion":"gorro negro de lana",
+            "buscador": "gorro negro negra lana accesorio",
+            "orden":27
         },
         {
-            "id": "b10",
-            "nombre":"bien10",
+            "id": "a10",
+            "nombre":"Gorro blanco",
             "precio":250,
             "cantidad":25,
-            "descripcion":"negro , gris ,verde"
+            "descripcion":"gorro blanco de lana",
+            "buscador":"gorro blanco blanca lana accesorio",
+            "orden":30
         },
         {
-            "id": "b11",
-            "nombre":"bien11",
+            "id": "a11",
+            "nombre":"Gorro azul",
             "precio":50,
             "cantidad":30,
-            "descripcion":"azul , blanco, rosa"
+            "descripcion":"gorro azul de lana",
+            "buscador":"gorro azul lana accesorio",
+            "orden":33
         },
         {
-            "id": "b12",
-            "nombre":"bien12",
+            "id": "a12",
+            "nombre":"Gorro rojo",
             "precio":300,
             "cantidad":10,
-            "descripcion":"rojo, amarillo , gris"
+            "descripcion":"gorro rojo de lana",
+            "buscador":"gorro rojo roja lana accesorio",
+            "orden":36
         }
     
         ]
